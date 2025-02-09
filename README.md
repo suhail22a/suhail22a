@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-three-sigma-32.vercel.app/](https://my-portfolio-three-sigma-32.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://suhail-portfolio-main.vercel.app/)](https://suhail-portfolio-main.vercel.app/)
 
 - 💬 Ask me about **java**
 
